@@ -6,29 +6,29 @@ authors: ["blindma1den", "lorenagubaira"]
 
 ---
 
-La planificación y documentación de redes es un proceso esencial para garantizar el diseño, implementación y mantenimiento efectivo de una red. Consiste en la creación de un plan estratégico que define los objetivos, requisitos y recursos necesarios para construir y gestionar una red de manera eficiente y segura esoimplica identificar las necesidades específicas de la organización, como el número de usuarios, los servicios requeridos y el volumen de tráfico esperado. También implica evaluar las tecnologías disponibles y seleccionar las más adecuadas para satisfacer las necesidades de la red.
+La planificación y documentación de redes es un proceso esencial para garantizar el diseño, implementación y mantenimiento efectivo de una red. Consiste en la creación de un plan estratégico que define los objetivos, requisitos y recursos necesarios para construir y gestionar una red de manera eficiente y segura. Eso implica identificar las necesidades específicas de la organización, como el número de usuarios, los servicios requeridos y el volumen de tráfico esperado. También implica evaluar las tecnologías disponibles y seleccionar las más adecuadas para satisfacer las necesidades de la red.
 
 ### **Documentación de red: diagramas, inventario de equipos**
 
 Mantener una documentación de la red es importante, ya que si una parte o toda la red queda fuera de servicio, esto puede tener un impacto negativo importante en la empresa. La documentación nos puede ayudar a tener un enfoque más sistemático para la resolución del problema con el fin de que vuelva a funcionar completamente lo antes posible.
 
-Para que un administrador de la red pueda monitorear y resolver estos problemas de red, en necesario mantener una documentación que incluya
+Para que un administrador de la red pueda monitorear y resolver estos problemas de red, es necesario mantener una documentación que incluya:
 
 - Archivos de configuración incluidos los de la red y los del sistema final.
-- Diagramas de topología física y lógicas
+- Diagramas de topología física y lógica.
 
 Con esta información, un administrador de red puede diagnosticar y corregir de manera eficaz los problemas de la red, según el diseño y el rendimiento esperado de la red en condiciones de operación normal.
 
 ### Archivos de configuración de red
 
-Estos archivos contienen registros precisos y actualizados del hardware y el software usados en una red. Entre estos archivos debe existir una tabla con para cada dispositivo de red utilizado con toda la información relevante sobre ese dispositivo.
+Estos archivos contienen registros precisos y actualizados del hardware y el software usados en una red. Entre estos archivos debe existir una tabla para cada dispositivo de red utilizado con toda la información relevante sobre ese dispositivo.
 
-| Nombre y modelo del dispositivo | Nombre de interfaz | Dirección mac | Dirección IPV4 | Dirección IPV6 |
+| Nombre y modelo del dispositivo | Nombre de interfaz | Dirección MAC | Dirección IPV4 | Dirección IPV6 |
 | --- | --- | --- | --- | --- |
 | R1 Cisco 1941 152-A.M1 | G0/0 | 0071.8580.A350 | 192.168.5.1/24 | 2001:ad4:cafe:10::1/64 |
 |  | G0/1 | 0071.8580.A351. | 192.168.10.1 | 2001:ad4:cafe::11::1/64 |
 
-También podemos tener una lista de los archivos de configuración de sistema final, estos se centraron en el hardware y software usados en los dispositivos del sistema final, como servidores, consolas de administración de red y estaciones de trabajo de los usuarios
+También podemos tener una lista de los archivos de configuración de sistema final, estos centrados en el hardware y software usados en los dispositivos del sistema final, como servidores, consolas de administración de red y estaciones de trabajo de los usuarios
 
 Esta lista nos ayudará ya que un sistema final mal configurado puede traernos un impacto negativo en el rendimiento general de la red. Es muy útil tener un registro de base que muestre el hardware y software usado en estos dispositivos para la resolución de problemas
 

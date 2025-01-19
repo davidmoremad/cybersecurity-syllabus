@@ -12,7 +12,7 @@ Un diagnóstico de red es el procedimiento que realizamos para determinar e insp
 
 Para ello se aplican diferentes herramientas que nos permitirán detectar posibles fallos o errores en los registros, asimismo eliminarlos y corregir las desviaciones.
 
-Gracias a un diagnóstico de red podemos lograr aumentar la velocidad de conexión a Internet, podemos verificar cuántas direcciones IP se conectan a nuestra red, podemos controlar también porque algún nodo no se puede conectar con facilidad y por sobre todas las cosas con un diagnóstico de red podemos saber qué nivel de seguridad tiene la misma.
+Gracias a un diagnóstico de red podemos lograr aumentar la velocidad de conexión a Internet, podemos verificar cuántas direcciones IP se conectan a nuestra red, podemos controlar también por qué algún nodo no se puede conectar con facilidad y saber qué nivel de seguridad tiene la misma.
 
 Para realizar un análisis de red lo que necesitamos es conocer la estructura, el diseño y el grado de implementación que tiene la misma. Para ello tenemos que recabar datos y conceptos que existen en la red, cuando es una red pequeña este paso lo podemos realizar rápidamente pero cuando nos encontramos con redes de una buena cantidad de nodos es recomendable realizarlo con mucha cautela a este punto.
 
@@ -34,7 +34,7 @@ Para ello es recomendable apagarlo o reiniciarlo y comprobar si sigue existiendo
 
 Si esto no se soluciona tendremos que verificar la parte del hardware de nuestra red, analizaremos las conexiones de cables entre nuestro router y los dispositivos, si es que tenemos una red LAN, verificaremos el estado de los conectores como así también el estado en general de todos los componentes externos.
 
-En el caso de Windows, cuenta con su propia herramienta de diagnóstico de red la cual podemos conseguir en “red e internet” y buscamos la opción “Solucionador de problemas de red”. También podemos conseguir herramientas como Uptrends Uptime Monitor y Wifi Explorer
+En el caso de Windows, cuenta con su propia herramienta de diagnóstico de red la cual podemos conseguir en “Red e Internet” y buscamos la opción “Solucionador de problemas de red”. También podemos conseguir herramientas como Uptrends Uptime Monitor y Wifi Explorer.
 
 Entre los problemas más comunes que podemos conseguir en nuestra red podemos conseguir:
 

@@ -21,7 +21,6 @@ The importance of network protocols lies in several key aspects:
 Knowledge of network protocols is essential in the field of pentesting (penetration testing) for several important reasons:
 
 | Identifying Vulnerabilities | By understanding how network protocols work, a pentester can identify potential vulnerabilities in the configuration or implementation of these protocols. This includes identifying weak configurations, lack of authentication, incorrect security settings, among others. |
-| --- | --- |
 | Vulnerability Exploitation | Once vulnerabilities are identified, pentesters can leverage their knowledge of the protocols to develop specific attacks that exploit these weaknesses. This could include injection attacks, brute force attacks, flooding attacks, among others, depending on the protocol and vulnerability in question. |
 | Security Assessment | Understanding network protocols is also crucial to assessing the overall security of a network or system. Pentesters can analyze the security configuration of protocols to determine if best practices are being followed and if there are any weaknesses that could compromise security. |
 | Information Gathering | In the initial phases of a penetration test, pentesters gather information about the network infrastructure and the services running on it. Knowledge of network protocols allows them to identify which specific services and services are in use. |

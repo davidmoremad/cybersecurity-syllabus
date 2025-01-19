@@ -6,7 +6,7 @@ authors: ["blindma1den", "lorenagubaira"]
 
 ---
 
-## Que es un Firewall
+## Qué es un Firewall
 
 Un firewall es un sistema de seguridad en la red, el cual restringe el tráfico de internet entrante, saliente o dentro de una red privada, el término proviene del concepto de paredes físicas que actúan como barreras para ralentizar la propagación del fuego hasta que los servicios de emergencia puedan extinguir.
 
@@ -18,15 +18,15 @@ Estas barreras por lo general se encuentran en dos ubicaciones: En dispositivos 
 
 ## La función de los Firewall en las redes
 
-El firewall o cortafuego es una herramienta esencial en la seguridad de redes ya que su función principal es proteger toda la red informática al controlar el tráfico de datos que entra y sale de ella, Actúa como especie de barrera entre la red interna y el mundo exterior, filtrando y bloqueando el acceso no autorizado y potencialmente peligroso, Una de sus funciones más importantes es la prevención de intrusiones, es decir, detecta y bloquea intentos de acceso no autorizado a la red ya sea desde el exterior o desde dispositivos internos comprometidos, y lo más importante es que un firewall puede evitar ataques de denegación de servicio (DDoS) al limitar el tráfico que puede ingresar a la red.
+El firewall o cortafuego es una herramienta esencial en la seguridad de redes ya que su función principal es proteger toda la red informática al controlar el tráfico de datos que entra y sale de ella. Actúa como especie de barrera entre la red interna y el mundo exterior, filtrando y bloqueando el acceso no autorizado y potencialmente peligroso, Una de sus funciones más importantes es la prevención de intrusiones, es decir, detecta y bloquea intentos de acceso no autorizado a la red ya sea desde el exterior o desde dispositivos internos comprometidos, y lo más importante es que un firewall puede evitar ataques de denegación de servicio (DDoS) al limitar el tráfico que puede ingresar a la red.
 
 ## ¿Cómo funcionan los firewall?
 
-El firewall decide que tráfico de red se admite o se considera peligroso, básicamente separa el tráfico bueno del malo, o el seguro del no fiable. Su objetivo principal es proteger las redes privadas y los dispositivos de punto de conexión que se encuentran en ellas, conocidos como hosts de red. Estos hosts se comunican con otros hosts en la red, envían y reciben tráfico entre las redes internas y también pueden recibir tráfico de redes externas.
+El firewall decide qué tráfico de red se admite o se considera peligroso, básicamente separa el tráfico bueno del malo, o el seguro del no fiable. Su objetivo principal es proteger las redes privadas y los dispositivos de punto de conexión que se encuentran en ellas, conocidos como hosts de red. Estos hosts se comunican con otros hosts en la red, envían y reciben tráfico entre las redes internas y también pueden recibir tráfico de redes externas.
 
 Las computadoras y otros dispositivos de punto de conexión utilizan redes para acceder a Internet y comunicarse entre ellos. Sin embargo, el mismo internet está segmentado en subredes por motivos de seguridad y privacidad
 
-En un firewall el filtrado del tráfico se logra mediante reglas preestablecidas o aprendidas dinámicamente para permitir y denegar los intentos de conexión. Estas reglas determinan cómo el firewall regula el flujo de tráfico web a través de la red privada y los dispositivos informáticos privados. Independientemente del tipo, todos los firewalls pueden realizar el filtrado mediante una combinación de lo siguiente:
+En un firewall, el filtrado del tráfico se logra mediante reglas preestablecidas o aprendidas dinámicamente para permitir y denegar los intentos de conexión. Estas reglas determinan cómo el firewall regula el flujo de tráfico web a través de la red privada y los dispositivos informáticos privados. Independientemente del tipo, todos los firewalls pueden realizar el filtrado mediante una combinación de lo siguiente:
 
 - **Origen**: lugar desde donde se intenta establecer la conexión.
 - **Destino:** lugar al que se intenta dirigir la conexión.
@@ -76,7 +76,7 @@ Una red inalámbrica o una red wifi es una señal de frecuencia por ondas, que p
 
 ### Encriptación
 
-La encriptación de las redes inalámbricas se utilizan para añadir seguridad mediante un protocolo de autenticación, el cual solicita una contraseña o una clave de red cuando un usuario o dispositivo intenta conectarse. Si la red Wifi no está asegurada con algún tipo de cifrado, es posible que algún usuario no autorizado pueda acceder a ella y obtener información personal, además de reducir la velocidad y el rendimiento de la red.
+La encriptación de las redes inalámbricas se utiliza para añadir seguridad mediante un protocolo de autenticación, el cual solicita una contraseña o una clave de red cuando un usuario o dispositivo intenta conectarse. Si la red Wifi no está asegurada con algún tipo de cifrado, es posible que algún usuario no autorizado pueda acceder a ella y obtener información personal, además de reducir la velocidad y el rendimiento de la red.
 
 > 💡 Existen diferentes tipos de cifrados para redes LAN inalámbricas (WIFI)
 
@@ -129,7 +129,7 @@ Como ya se ha comentado, se trata de un algoritmo de cifrado WiFi de bloque con 
 
 Es necesario un hardware potente para realizar los algoritmos de WPA2, lo que significa que dispositivos antiguos sin suficientes capacidades de procesamiento no podrán incorporar WPA2.
 
-El modo personal o Pre-Shared Key (PSK) funciona igual que en la seguridad WAP, y es el protocolo de cifrado WiFi más fácil de instalar ya que requiere que se cree una contraseña simple. Aunque WPA2 proporciona una fuerte encriptación y seguridad, y es “potencialmente indescifrable” por los atacantes si se utiliza una contraseña larga y fuerte.
+El modo personal o Pre-Shared Key (PSK) funciona igual que en la seguridad WPA, y es el protocolo de cifrado WiFi más fácil de instalar ya que requiere que se cree una contraseña simple. Aunque WPA2 proporciona una fuerte encriptación y seguridad, y es “potencialmente indescifrable” por los atacantes si se utiliza una contraseña larga y fuerte.
 
 ### Filtrado MAC
 

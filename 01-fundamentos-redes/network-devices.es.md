@@ -1,6 +1,6 @@
 ---
 title: "Dispositivos de red"
-subtitle: "Explora y conoce que es un enrutador, módem, conmutador, punto de acceso, firewall y más. ¡Diseñe su red LAN con Cisco Packet Tracer Lab Challenge!"
+subtitle: "Explora y conoce qué es un enrutador, módem, conmutador, punto de acceso, firewall y más. ¡Diseñe su red LAN con Cisco Packet Tracer Lab Challenge!"
 tags: ["redes"]
 authors: ["blindma1den", "lorenagubaira"]
 

@@ -39,7 +39,6 @@ The IANA is responsible for allocating IP address blocks to **Internet Regions**
 Each of these regions has its own **Regional Internet Registry** (RIR), which is an organization that manages and distributes IP addresses in its corresponding geographic area. These RIRs are:
 
 | ARIN (American Registry for Internet Numbers) | Responsible for North America. |
-| --- | --- |
 | RIPE NCC (Réseaux IP Européens Network Coordination Centre) | Responsible for Europe, Middle East and part of Central Asia |
 | APNIC (Asia-Pacific Network Information Centre) | Responsible for the region of Pacífic Asia. |
 | LACNIC (Latin America and Caribbean Network Information Centre) | In charge of Latin America and the Caribbean. |
